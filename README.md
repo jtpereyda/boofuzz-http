@@ -20,7 +20,7 @@ cause harm so beware what you test against.
 
 ### Run the fuzzer
 
-    python http.py
+    python fuzz_http.py
 
 It's fun to watch the fuzzer progress, but there is a lot of output, so you may want to pipe it out.
 
